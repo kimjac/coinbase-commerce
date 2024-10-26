@@ -1,12 +1,21 @@
 # coinbase-commerce
+
 === Coinbase Commerce Payment Gateway for WooCommerce ===
+
 Contributors: pragbarrett, eddhurst, omidahourai, robbybarton, kimjac
+
 Plugin URL: https://commerce.coinbase.com/
+
 Tags: coinbase, woocommerce, ethereum, commerce, crypto
+
 Requires at least: 3.0
+
 Requires PHP: 8.1+
+
 Tested up to: 6.5.3
+
 Stable tag: 1.4
+
 License: GPLv2 or later
 
 == Description ==
